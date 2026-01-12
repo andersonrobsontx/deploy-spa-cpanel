@@ -9,8 +9,18 @@ de um site desenvolvido com a plataforma Lovable, hospedado em servidor Apache v
 ## ❌ Problema
 Após o deploy, ao acessar URLs diretamente (ex: /sobre, /galeria),
 o site retornava erro **404 – Página não encontrada**.
+## 📷 Evidência do erro
+
+![Erro 404](erro%20404%20IBDESP.png)
+
 
 A página inicial funcionava normalmente.
+
+
+
+![Página inicial funcionando](P%C3%A1gina%20Inicial%20IBDESP.png)
+
+
 
 ## 🖥️ Ambiente
 - Hospedagem: HostGator
