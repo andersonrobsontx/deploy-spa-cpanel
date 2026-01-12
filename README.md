@@ -38,6 +38,11 @@ Criação do arquivo `.htaccess` com regras de rewrite para redirecionar
 todas as requisições para o `index.html`, permitindo que o frontend
 gerencie as rotas corretamente.
 
+## 🛠️ Configuração do .htaccess no cPanel
+
+![Configuração do .htaccess no servidor cPanel](WhatsApp%20Image%202026-01-12%20at%2011.50.58.jpeg)
+
+
 ```apache
 <IfModule mod_rewrite.c>
   RewriteEngine On
